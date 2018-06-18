@@ -43,6 +43,9 @@
         "webpack-dev-middleware": "^1.8.3",
         "webpack-hot-middleware": "^2.12.2",
         "webpack-merge": "^0.14.1",
-        "vue-cordova": "^0.1.2"
+        "vue-cordova": "^0.1.2",
+        "stylus": "^0.54.5",
+        "stylus-loader": "^3.0.2",
+        "axios": "^0.18.0"
     }
 }

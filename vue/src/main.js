@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App'
-import store from './vuex'
+//import store from './vuex'
 import VueRouter from 'vue-router'
 import VueResource from 'vue-resource'
 import MintUI from 'mint-ui';
@@ -40,7 +40,7 @@ const router = new VueRouter({
 
 new Vue({
     el: '#app',
-    store,
+   // store,
     render: h => h(App),
     router
 })
